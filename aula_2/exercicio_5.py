@@ -58,7 +58,7 @@ lampada1 = Lampada()
 lampada2 = Lampada()
 
 opcao = input('Deseja acender a lâmpada? (S/N) ')
-if opcap == 'S':
+if opcao == 'S':
 	lampada1.pressionar_interruptor()
 
 print('Lâmpada 1: ' + str(lampada1.acesa))

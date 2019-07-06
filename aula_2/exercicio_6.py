@@ -62,3 +62,5 @@ def gerar_csv():
 	pass
 
 cadastrar_usuario()
+
+consultar_usuario('aaa')
